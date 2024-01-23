@@ -1,4 +1,5 @@
 # Obsidian Beginner Vault
+https://obsidian.md/
 
 Welcome to the Obsidian Beginner Vault! This repository serves as a guide for individuals new to Obsidian, a powerful note-taking and knowledge management application. Whether you're a student, researcher, or anyone interested in effective note-taking, this vault aims to provide you with a foundation for using Obsidian efficiently.
 
