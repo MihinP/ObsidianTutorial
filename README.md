@@ -23,6 +23,11 @@ Clone or download this repository to get started with the Obsidian Beginner Vaul
    ```bash
    git@github.com:MihinP/ObsidianTutorial.git
    ```
+
+   or
+
+   `Download ZIP` from options above
+
 2. Open in Obsidian:
     - Open Obsidian.
     - Use "Open Folder as Vault" and select the cloned repository.
