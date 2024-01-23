@@ -4,6 +4,11 @@ When you're ready, head to [[Obsidian Markdown Basics]]
 
 Learn about linking notes here [[Research Overview]]
 
+# Themes
+The entire UI of Obsidian can be customised through themes available in the Appearance tab under Settings.
+
+![[Pasted image 20240123201712.png]]
+
 # Plugins
 ***Here are some popular plugins installed in this vault with examples of their use***
 Install more plugins through the settings menu at the bottom

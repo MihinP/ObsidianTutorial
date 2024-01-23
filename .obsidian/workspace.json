@@ -138,6 +138,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -148,6 +149,7 @@
   },
   "active": "96d01f40b2548911",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240123201712.png",
     "README.md",
     "ObsidianTutorial/LICENSE",
     "ObsidianTutorial/README.md",
