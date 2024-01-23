@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Obsidian Markdown Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Obsidian Markdown Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Obsidian Markdown Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Obsidian Markdown Basics.md"
               }
             }
           }
@@ -149,13 +149,14 @@
   },
   "active": "96d01f40b2548911",
   "lastOpenFiles": [
+    "Attachments/ECE3121 - Magnetostatics 2020.pdf",
+    "Welcome.md",
     "Attachments/Pasted image 20240123201712.png",
     "README.md",
     "ObsidianTutorial/LICENSE",
     "ObsidianTutorial/README.md",
     "ObsidianTutorial",
     "Advanced Topics/Literature Note Template.md",
-    "Welcome.md",
     "Attachments/Pasted image 20240123184024.png",
     "Attachments/Pasted image 20240123183419.png",
     "Advanced Topics",

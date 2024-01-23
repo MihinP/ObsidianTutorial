@@ -143,3 +143,7 @@ These can help draw emphasis on information (and look pretty too)
 
 
 **There's many different kinds of callouts** - see https://help.obsidian.md/Editing+and+formatting/Callouts#Supported+types for examples
+
+## PDF
+You can embed and view PDF files directly in Obsidian!
+![[ECE3121 - Magnetostatics 2020.pdf]]
