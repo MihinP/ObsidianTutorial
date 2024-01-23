@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "meta4": "date",
+    "meta 5": "datetime",
+    "exam": "date",
+    "semester": "number"
+  }
+}
