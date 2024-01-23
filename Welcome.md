@@ -93,23 +93,7 @@ Type the new name of the note when created and hit `Enter`
 
 
 You will see your new note in the folder and also (for example) in something like [[Subjects Homepage]]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### Advanced Topics
+# Advanced Topics
 *Contact me if you are having trouble implementing these methods*
 ## Automatic Daily Task List
 Obsidian can be set up to automatically create a note for each day with all tasks you need to complete
